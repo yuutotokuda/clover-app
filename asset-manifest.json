@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clover-app/static/css/main.4b1f4188.css",
+    "main.js": "/clover-app/static/js/main.b8b955d5.js",
+    "static/media/room-img-3.jpg": "/clover-app/static/media/room-img-3.b3c861b86c7e21d2e52a.jpg",
+    "static/media/room-img-1.jpg": "/clover-app/static/media/room-img-1.372e32df41c7058904b1.jpg",
+    "static/media/room-img-2.jpg": "/clover-app/static/media/room-img-2.3344f36403408cd414d6.jpg",
+    "index.html": "/clover-app/index.html",
+    "main.4b1f4188.css.map": "/clover-app/static/css/main.4b1f4188.css.map",
+    "main.b8b955d5.js.map": "/clover-app/static/js/main.b8b955d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1f4188.css",
+    "static/js/main.b8b955d5.js"
+  ]
+}
